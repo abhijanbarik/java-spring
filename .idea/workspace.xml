@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f90376f8-5f3c-485c-ac70-93197c39df1a" name="Changes" comment="Day 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f90376f8-5f3c-485c-ac70-93197c39df1a" name="Changes" comment="Day 2.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +145,7 @@
       <workItem from="1714492729194" duration="187000" />
       <workItem from="1714492922527" duration="1148000" />
       <workItem from="1714494169241" duration="24000" />
+      <workItem from="1714494210666" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="fix 02">
       <option name="closed" value="true" />
@@ -164,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714493711820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 2.1">
+      <option name="closed" value="true" />
+      <created>1714494239067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714494239067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix 02" />
     <MESSAGE value="Day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2" />
+    <MESSAGE value="Day 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2.1" />
   </component>
 </project>
