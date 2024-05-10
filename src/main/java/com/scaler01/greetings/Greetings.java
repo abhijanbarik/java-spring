@@ -8,7 +8,7 @@ public class Greetings {
     *
     * */
 
-    public static String greet() {
+    public static String greet() { 
 
         int hour = java.time.LocalTime.now().getHour();
 
