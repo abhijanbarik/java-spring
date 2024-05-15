@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class Client {
 
-    OkHttpClient okHttpClient = new OkHttpClient(); // Instance Variable for our okHttpClient class
+    OkHttpClient okHttpClient = new OkHttpClient(); // Instance Variable for our okHttpClient class 
 
     public String get(String url) {
 
