@@ -29,3 +29,6 @@ public class Client {
     }
 
 }
+
+
+/*This above Client class is taking url in get method and printing response in a String format*/
