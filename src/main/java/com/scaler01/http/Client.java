@@ -31,4 +31,4 @@ public class Client {
 }
 
 
-/*This above Client class is taking url in get method and printing response in a String format*/
+/*This above Client class downloads a URL and prints its contents as a string.*/
