@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f90376f8-5f3c-485c-ac70-93197c39df1a" name="Changes" comment="Day 4">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="f90376f8-5f3c-485c-ac70-93197c39df1a" name="Changes" comment="Day 4.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -163,7 +162,7 @@
       <workItem from="1714600532132" duration="76000" />
       <workItem from="1715018385313" duration="597000" />
       <workItem from="1715101800837" duration="3120000" />
-      <workItem from="1715743929511" duration="4215000" />
+      <workItem from="1715743929511" duration="5010000" />
     </task>
     <task id="LOCAL-00001" summary="fix 02">
       <option name="closed" value="true" />
@@ -205,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715785750002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 4.1">
+      <option name="closed" value="true" />
+      <created>1715787118447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715787118447</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="Day 2.1" />
     <MESSAGE value="Day 3" />
     <MESSAGE value="Day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
+    <MESSAGE value="Day 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4.1" />
   </component>
 </project>

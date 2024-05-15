@@ -17,6 +17,7 @@ dependencies {
 }
 
 jar {
+    duplicatesStrategy = duplicatesStrategy.EXCLUDE          // Use duplicate strategy to avoid error.
     manifest {
         attributes "Main-Class": "com.Scaler01.Main"
     }
